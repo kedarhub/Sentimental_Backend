@@ -4,3 +4,4 @@ nltk==3.6.5
 Werkzeug==2.1.0
 Flask-Cors==3.0.10
 youtube_transcript_api==0.4.1
+pytube==12.1.0
