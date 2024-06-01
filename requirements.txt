@@ -3,3 +3,4 @@ vaderSentiment==3.3.2
 nltk==3.6.5
 Werkzeug==2.1.0
 Flask-Cors==3.0.10
+youtube_transcript_api==0.4.1
